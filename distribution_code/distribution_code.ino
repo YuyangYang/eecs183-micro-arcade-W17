@@ -1,7 +1,7 @@
 #include <gamma.h>
 #include <RGBmatrixPanel.h>
 #include <Adafruit_GFX.h>
-
+//TESTING
 // define the wiring of the LED screen
 const uint8_t CLK  = 8;
 const uint8_t LAT = A3;
